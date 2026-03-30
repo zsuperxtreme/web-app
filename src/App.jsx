@@ -17,6 +17,16 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
+
+
+  <h1 class="text-3xl font-bold underline">
+    Hello world! abc
+  </h1>
+      {/* Alert */}
+      <div className="alert alert-success">
+        <span>Success! Your UI works 🎉</span>
+      </div>
+          
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
